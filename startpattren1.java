@@ -6,6 +6,7 @@ public class startpattren1 {
                 System.out.print("*");
             }
             System.out.println();
+            
         }
     }
 }
